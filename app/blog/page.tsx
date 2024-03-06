@@ -4,6 +4,8 @@ import { cn } from "@/lib/utils";
 import { GeistSans } from "geist/font/sans";
 import React from "react";
 
+export const revalidate = 0;
+
 const page = async () => {
   const data: Array<PostDataType> = await getData();
 

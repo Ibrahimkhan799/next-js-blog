@@ -5,6 +5,7 @@ import { cn, formatDate } from "@/lib/utils";
 import { PortableText } from "@portabletext/react";
 import { GeistSans } from "geist/font/sans";
 import React from "react";
+export const revalidate = 0;
 type Props = {
   params: {
     slug: string;
