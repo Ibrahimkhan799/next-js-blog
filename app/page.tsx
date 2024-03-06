@@ -13,7 +13,7 @@ export default async function Home() {
             GeistSans.variable
           )}
         >
-          See what's happening in the world with blog's new features.
+          See what&apos;s happening in the world with blog&apos;s new features.
         </h1>
         <span className="text-sm md:text-base lg:text-lg w-2/4 text-foreground/60">
           Explore our new blog features and get the top knowledge of the world
